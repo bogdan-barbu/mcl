@@ -1,0 +1,6 @@
+bin/
+dep/
+lib/
+man/
+obj/
+tags
